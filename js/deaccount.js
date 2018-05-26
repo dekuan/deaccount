@@ -1,4 +1,3 @@
-
 /**
  *	defines VDATA
  */

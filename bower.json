@@ -19,12 +19,12 @@
 	"ignore":
 	[
 		"**/.*",
+		"src",
+		"js",
 		"node_modules",
 		"bower_components",
-		"test",
-		"tests",
 		"tools",
-		"composer.json",
+		"composer.*",
 		"karma.conf.js",
 		"mocha.opts",
 		"package.json"
