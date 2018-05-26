@@ -1,0 +1,36 @@
+{
+	"name"		: "deaccount",
+	"homepage"	: "http://www.dekuan.org/",
+	"authors"	:
+	[
+		"liuqixing <liuqixing@dekuan.org>"
+	],
+	"description"	: "deaccount / JavaScript constants and library by DeKuan, Inc.",
+	"main"		:
+	[
+		"deaccount.js"
+	],
+	"keywords"	:
+	[
+		"dekuan",
+		"deaccount"
+	],
+	"license": "MIT",
+	"ignore":
+	[
+		"**/.*",
+		"src",
+		"js",
+		"node_modules",
+		"bower_components",
+		"tools",
+		"composer.*",
+		"karma.conf.js",
+		"mocha.opts",
+		"package.json"
+	],
+	"dependencies":
+	{
+		"jquery": ">=1.0"
+	}
+}
